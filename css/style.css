@@ -67,8 +67,8 @@
 /* SECTION NO 1 */
 
 .section-1 {
-    background-color: #000000;
-    background-image: url(../images/cover.jpg);
+    /* background-color: #000000; */
+    background-image: url(../images/demo.jpg);
     height: 450px;
     padding: 0px;
     background-size: cover;
